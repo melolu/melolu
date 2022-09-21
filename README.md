@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Welcome and thank you for being here
+### I am Software Test Engineer & Developer
+### My linkedin profile (https://linkedin.com/in/melihanilaydin)
 <!--
 **melolu/melolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
